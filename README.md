@@ -22,7 +22,7 @@ Responsibilities include:
 - ERPNext 📊
 
 ## Database
-- MySQL / MariaDB 🗄️
+- MySQL / MariaDB / PostgreSQL🗄️
 
 ## Version Control
 - Git 🐙
