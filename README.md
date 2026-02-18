@@ -35,44 +35,12 @@ Responsibilities include:
 - Bootstrap 🎨
 - Jinja Templates 🧩
 
-## ♾️ React Portfolio Application with AWS and Docker Repository
-
-Explore the DevOps hands-on work scripts in my latest project repository:
-
-[![View DevOps Project Repo ](https://img.shields.io/badge/View%20DevOps%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
-
-Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
-
-<br>
-
-## 🎨 Canva Designs
-
-Explore my latest design project on Canva:
-
-[![View on Canva](https://img.shields.io/badge/View%20on%20Canva-Designs-blue?logo=canva)](https://github.com/SSAKTHIVELMURUGAN/Canva-Designs.git)
-
-<br>
-
-## 🪄 Figma Project
-
-Check out my latest design project on Figma:
-
-[![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
-
-<br>
 
 ## </> LeetCode Profile
 
 You can check out my LeetCode profile and my problem-solving status:
 
 [![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20Problems-blue)](https://leetcode.com/21ecb23/)
-
-<br>
-
-# 📈 Area of Interest
-
-- Cryptocurrency 💰
-- Web Design using Canva, Figma 🎨
 
 <br>
 
