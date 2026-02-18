@@ -10,10 +10,6 @@ Responsibilities include:
 - Collaborating with development teams to deliver solutions tailored to client requirements
 - Gaining hands-on experience with real-world business processes and implementing them in software
 
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) &nbsp; &nbsp;
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
 # 👨🏼‍💻 Technical Stack
 
 ## Programming Skills
